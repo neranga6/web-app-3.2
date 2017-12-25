@@ -1,0 +1,1 @@
+${raw(ingredientModule.module.content)}

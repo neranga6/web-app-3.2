@@ -1,0 +1,81 @@
+
+
+.tabList{
+	
+	display: none;
+}
+
+.button:hover {
+	background: #3071A9
+}
+
+
+.no-print{
+	
+	display: none !important;
+}
+
+
+.footer {
+	display: none;
+}
+
+.rightNWImage{
+	
+	display: none;
+}
+
+
+th {
+    background-color: #000;
+    color: #000;
+    font-weight: 700;
+    border-bottom: 1px solid #000 !important;
+  	border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    padding-bottom: 5px !important;
+    
+}
+
+tbody, tr, td {
+	  
+	   padding: 3px;
+	
+}
+
+tbody, tr, td, p, span {
+	   font-size: 10px;
+	
+	
+}
+
+
+#reportTable{
+	padding-top: 15px;
+	width: 100%;
+}
+#reportGroup {
+	width: 10%;
+}				
+#reportModule {
+	width: 10%;
+	
+}
+#reportContent {
+	width: 50%;
+	
+}
+#reportBusinessRules {
+	width: 30%;
+	
+}
+
+table{
+border-collapse:collapse;
+border:1px solid #000;
+}
+table td{
+border:1px solid #000;
+}
+

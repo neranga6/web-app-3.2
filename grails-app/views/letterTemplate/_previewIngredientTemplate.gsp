@@ -1,0 +1,1 @@
+<p>${raw(ingredientModule.module.content)}</p>

@@ -1,0 +1,22 @@
+
+th {
+/* 	border-left: 1px solid #686D74; */
+/* 	border-right: 1px solid #686D74; */
+	border-top: 1px solid #FFFFFF;
+}
+
+tr, td, th {
+height: 25px;
+padding-bottom: 0;
+padding-top: 0;
+}
+
+th {
+background-color: #686D74;
+color: #FFFFFF;
+font-weight: 700;
+}
+
+.even {
+background: #F7F6F3;
+}
